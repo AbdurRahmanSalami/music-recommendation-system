@@ -1,0 +1,3 @@
+model,genre_consistency_at_10
+Audio-only baseline,0.1764
+Audio + genre hybrid,0.9826
