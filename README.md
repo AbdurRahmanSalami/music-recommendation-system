@@ -28,7 +28,7 @@ The project started with an **audio-only nearest-neighbour model** and was later
 ---
 
 ## 🚀 Live Application
-
+🔗 **Try the application:** https://music-recommendation-system-0.streamlit.app
 The Streamlit application allows users to:
 
 * Search for a song
@@ -38,7 +38,7 @@ The Streamlit application allows users to:
 * Compare audio features between the selected song and its top recommendation
 * Read an explanation of how the recommendation system works
 
-> A public deployment link will be added here after deployment.
+
 
 ---
 
@@ -409,3 +409,4 @@ Hybrid audio + genre:      98.26% Genre Consistency@10
 ```
 
 The final system demonstrates a complete Data Science workflow from **data cleaning and exploratory analysis through modelling, evaluation, explainability, interface development, and deployment preparation**.
+  
