@@ -29,6 +29,7 @@ The project started with an **audio-only nearest-neighbour model** and was later
 
 ## 🚀 Live Application
 🔗 **Try the application:** https://music-recommendation-system-0.streamlit.app
+
 The Streamlit application allows users to:
 
 * Search for a song
