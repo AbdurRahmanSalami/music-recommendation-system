@@ -6,6 +6,10 @@ The project compares an audio-only baseline recommendation model with an improve
 
 ---
 
+## 🖥️ Application Preview
+
+![Music Recommendation System](images/app_demo.png)
+
 ## 📌 Project Overview
 
 Music recommendation systems help users discover songs based on their listening preferences.
